@@ -1,0 +1,9 @@
+<suite name="Coding" parralel="true" thread-count="10" preserve-orders="true" parallel="classes">
+    <test name="DEV">
+        <classes>
+            <class name="TestClass"/>
+            <class name="TestClass2"/>
+        </classes>
+    </test>
+
+</suite>
